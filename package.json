@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "chrome-aws-lambda": "1.11.1",
-    "puppeteer-core": "1.11.0"
+    "puppeteer-core": "2.0.0"
   },
   "devDependencies": {
     "@types/puppeteer-core": "2.0.0",
