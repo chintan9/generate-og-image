@@ -14,7 +14,7 @@
     "puppeteer-core": "1.11.0"
   },
   "devDependencies": {
-    "@types/puppeteer-core": "2.0.0",
+    "@types/puppeteer-core": "5.4.0",
     "typescript": "3.7.5"
   }
 }
